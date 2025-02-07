@@ -6,3 +6,6 @@
 
 // [SHA-256] -Mostly used & [MD5]
 
+
+// const solanaWeb3 = require('@solana/web3.js');
+// console.log(solanaWeb3)
